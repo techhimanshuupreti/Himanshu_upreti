@@ -1,26 +1,26 @@
-## Himanshu Upreti
+# Himanshu Upreti
 ##### Software Engineer, IT Professional
 
-## Protect-Details
+### Protect-Details
  
 ## Project Title :           Online Bus Reservation
-Platform : 	                 C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008(<-- two spaces)
-Description :	               This project works of Bus Reservation for Travels. Users can book by online website(<-- two spaces)
-Role & Responsibilities(<-- two spaces)
+Platform : 	                 C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008<br/>
+Description :	               This project works of Bus Reservation for Travels. Users can book by online website<br/>
+Role & Responsibilities<br/>
                   	•	Designing Website
                  	 •	Connectivity Database
 
 ## Project Title :           Online ArtGallery
-Platform : 	                  C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008(<-- two spaces)
-Description :	                This project works on sell the painting Artist. Customer or user can view the painting if viewer like the                               any painting then buy the painting(<-- two spaces)
-Role & Responsibilities(<-- two spaces)
+Platform : 	                  C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008<br/>
+Description :	                This project works on sell the painting Artist. Customer or user can view the painting if viewer like the                               any painting then buy the painting<br/>
+Role & Responsibilities<br/>
                   	•	Designing Website
                  	 •	Connectivity Database
 
 ## Project Title :           Contact Manager
-Platform :                   C#.NET, WPF, ADO.NET, MS-SQL server 2008(<-- two spaces)
-Description :	               This project works on storing Contact Numbers(<-- two spaces)
-Role & Responsibilities(<-- two spaces)
+Platform :                   C#.NET, WPF, ADO.NET, MS-SQL server 2008<br/>
+Description :	               This project works on storing Contact Numbers<br/>
+Role & Responsibilities<br/>
               		•	Designing Application
               		•	Connectivity Database
 
