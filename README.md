@@ -4,22 +4,22 @@
 ## Protect-Details
  
 ## Project Title :           Online Bus Reservation
-Platform : 	              C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008
-Description :	            This project works of Bus Reservation for Travels. Users can book by online website
-Role & Responsibilities
+Platform : 	                 C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008\
+Description :	               This project works of Bus Reservation for Travels. Users can book by online website\
+Role & Responsibilities\
                   	•	Designing Website
                  	 •	Connectivity Database
 
 ## aProject Title :           Online ArtGallery
-Platform : 	                  C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008
-Description :	                This project works on sell the painting Artist. Customer or user can view the painting if viewer like the                               any painting then buy the painting
-Role & Responsibilities
+Platform : 	                  C#.NET, ASP.NET, ADO.NET, MS-SQL server 2008\
+Description :	                This project works on sell the painting Artist. Customer or user can view the painting if viewer like the                               any painting then buy the painting\
+Role & Responsibilities\
                   	•	Designing Website
                  	 •	Connectivity Database
 
 ## Project Title :           Contact Manager
-Platform :                   C#.NET, WPF, ADO.NET, MS-SQL server 2008
-Description :	               This project works on storing Contact Numbers
+Platform :                   C#.NET, WPF, ADO.NET, MS-SQL server 2008\
+Description :	               This project works on storing Contact Numbers\
 Role & Responsibilities
               		•	Designing Application
               		•	Connectivity Database
